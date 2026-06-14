@@ -38,11 +38,13 @@ A full-stack flower shop web application built with Next.js 16 and Supabase. Cus
 | State | Zustand (cart) |
 
 **Account for this WebSite**
+
 Email: admin@bouqt.com
 Password: Admin123!
 
 Email: customer@bouqt.com
 Password: Customer123!
+
 Bouqt — Fresh Bouquets, Made With Heart
 Handcrafted bouquets for every moment.
 
