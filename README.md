@@ -37,4 +37,8 @@ A full-stack flower shop web application built with Next.js 16 and Supabase. Cus
 | UI Components | shadcn/ui |
 | State | Zustand (cart) |
 
+**Members**
+- Francis D. Aying
+- Mark Jayson D. Galarpe
+
 
