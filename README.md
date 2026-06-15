@@ -49,6 +49,6 @@ Bouqt — Fresh Bouquets, Made With Heart
 Handcrafted bouquets for every moment.
 
 ### Members
-Francis D. Aying  
-Mark Jayson D. Galarpe  
+* Francis D. Aying  
+* Mark Jayson D. Galarpe  
 
