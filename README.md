@@ -48,8 +48,7 @@ Password: Customer123!
 Bouqt — Fresh Bouquets, Made With Heart
 Handcrafted bouquets for every moment.
 
-**Members**
-- Francis D. Aying
-- Mark Jayson D. Galarpe
-- BSCS3-B2
+### Members
+Francis D. Aying  
+Mark Jayson D. Galarpe  
 
